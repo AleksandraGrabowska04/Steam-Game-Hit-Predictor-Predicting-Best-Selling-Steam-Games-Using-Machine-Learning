@@ -21,3 +21,11 @@ The dataset comes from Kaggle and is licensed under **CC BY-SA 4.0**.
 - **Data Analysis** – identifying trends, correlations, and patterns.
 - **Modeling** – Logistic Regression (baseline) and LightGBM (boosting method).
 - **Evaluation** – using Accuracy, Precision, Recall, F1 Score, and ROC AUC.
+
+---
+
+## License (Code)
+
+This project’s **code** is licensed under the MIT License.  
+You are free to use, modify, and distribute it, provided that the original copyright
+notice and this license are included.
